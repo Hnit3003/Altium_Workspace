@@ -1,0 +1,211 @@
+Added Component: Designator=1(SOT223-4N)
+Add component (AddParameter): Name = "Value"; Value = "LM317"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP-SM-0805)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CN1)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SS34)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-214-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DO-214-AA/SMB; 2 C-Bend Leads; Body 5.3 x 3.6 mm, inc. leads (LxW)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DHT1(DHT11)
+Add component (AddParameter): Name = "Accuracy"; Value = "±5% RH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Produdct (hshop.vn)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://hshop.vn/products/cam-bien-do-am-nhiet-do-dht11-ra-chan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Product (digikey.com)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/universal-solder-electronics-ltd/DHT11/16822119"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (UNIVERSAL-SOLDER Electronics Ltd)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://universal-solder.ca/downloads/DHT11.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet (Adafruit Industries)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.mediafire.com/download/48g0861d7ch3l34/dht_document.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNIVERSAL-SOLDER Electronics Ltd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output"; Value = "16b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Digital"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensor Type"; Value = "Humidity, Temperature"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "3.5V ~ 5.5V"; VariantName = "[No Variations]"
+Added Component: Designator=ENCODER1(ROTARY_ENCODER)
+Add component (AddParameter): Name = "Base Product Number"; Value = "KY04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product (hshop.vn)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://hshop.vn/products/mach-volume-xoay-encoder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet (Amphenol Anytek)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/htmldatasheets/production/1664187/0/0/1/kyxx01x000j0g-drawing.html?site=US&lang=en&cur=USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "15 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol Anytek"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "TERM BLK 4POS SIDE ENTRY 5MM PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Orientation"; Value = "Horizontal with Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 115°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.197" (5.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions Per Level"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "KY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge"; Value = "12-24 AWG"; VariantName = "[No Variations]"
+Added Component: Designator=F1(FUSE SMD)
+Added Component: Designator=IC1(SOT223-4N)
+Add component (AddParameter): Name = "Value"; Value = "LM317"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(DS3231_PINOUT_Module)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet (IC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/DS3231M.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet (Module)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheets.maximintegrated.com/en/ds/DS3231.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Product (hshop.vn)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://hshop.vn/products/mach-thoi-gian-thuc-rtc-ds3231"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Timekeeping (Max)"; Value = "130µA ~ 200µA @ 3.63V ~ 5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Alarm, Leap Year, Square Wave Output"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I²C, 2-Wire Serial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Seeed Technology Co., Ltd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Clock/Calendar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2.3V ~ 5.5V"; VariantName = "[No Variations]"
+Added Component: Designator=LCD1(LCD1602)
+Add component (AddParameter): Name = "BACKLIGHT"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BACKLIGHT COLOR"; Value = "GREEN/BLUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CHARACTER COLOR"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CHARACTER SET"; Value = "ASCII"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Hshop (Green Backlight)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://hshop.vn/products/lcd-text-lcd1602-xanh-lo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Hshop (Blue Backlight)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://hshop.vn/products/lcd-text-lcd1602-xanh-duong"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.waveshare.com/datasheet/LCD_en_PDF/LCD1602.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CONNECTOR"; Value = "Pin / ZEBRA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIMENSION"; Value = "80 * 36 * 12.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DISPLAY CONSTRUCTION"; Value = "16 Characters * 2 Lines"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DISPLAY MODE"; Value = "TN/STN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DISPLAY TYPE"; Value = "Positive Transflective"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DRIVER IC"; Value = "KS0066 (compatible with HD44780)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DRIVING METHOD"; Value = "1/16 duty,1/5 bias"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DRIVING VOLTAGE"; Value = "Single power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "INTERFACE"; Value = "Parallel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER OF DATA LINE"; Value = "8-bit parallel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OPERATING TEMPERATURE"; Value = "Indoor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "COB (Chip On Board)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VIEWING DIRECTION"; Value = "6 o'clock"; VariantName = "[No Variations]"
+Added Component: Designator=P1(DOMINO SMALL 2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1(STM32F103C8T6_PINOUT_Bluepill)
+Add component (AddParameter): Name = "Category"; Value = "Microcontrollers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MPU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/stm32f103c8t6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Kit Bluepill"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://hshop.vn/products/kit-ra-chon-stm32f103c8t6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.st.com/resource/en/datasheet/cd00161566.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connectivity"; Value = "CANbus, I²C, IrDA, LINbus, SPI, UART/USART, USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Processor"; Value = "ARM® Cortex®-M3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Size"; Value = "32-Bit Single-Core"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Converters"; Value = "A/D 10x12b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EEPROM Size"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of I/O"; Value = "37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Oscillator Type"; Value = "Internal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peripherals"; Value = "DMA, Motor Control PWM, PDR, POR, PVD, PWM, Temp Sensor, WDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Program Memory Size"; Value = "64KB (64K x 8)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Program Memory Type"; Value = "FLASH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RAM Size"; Value = "20K x 8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "STM32F1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "72MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply (Vcc/Vdd)"; Value = "2V ~ 3.6V"; VariantName = "[No Variations]"
+Added Component: Designator=VR1(Varistor 1)
+Add component (AddParameter): Name = "Value"; Value = "VR 10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C4-2
+Added Pin To Net: NetName=3.3V Pin=DHT1-3
+Added Pin To Net: NetName=3.3V Pin=ENCODER1-4
+Added Pin To Net: NetName=3.3V Pin=IC1-2
+Added Pin To Net: NetName=3.3V Pin=U1-20
+Added Pin To Net: NetName=3.3V Pin=U1-38
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=1-2
+Added Pin To Net: NetName=5V Pin=C2-2
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=5V Pin=IC1-3
+Added Pin To Net: NetName=5V Pin=IC2-5
+Added Pin To Net: NetName=5V Pin=LCD1-2
+Added Pin To Net: NetName=5V Pin=VR1-3
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=1-1
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=DHT1-1
+Added Pin To Net: NetName=GND Pin=ENCODER1-5
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=IC2-6
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=GND Pin=LCD1-16
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-39
+Added Pin To Net: NetName=GND Pin=U1-40
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=LED+ Pin=LCD1-15
+Added Pin To Net: NetName=LED+ Pin=U1-4
+Added Net: Name=LED+
+Added Pin To Net: NetName=Net1_3 Pin=1-3
+Added Pin To Net: NetName=Net1_3 Pin=C1-2
+Added Pin To Net: NetName=Net1_3 Pin=D1-2
+Added Net: Name=Net1_3
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=F1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetDHT1_2 Pin=DHT1-2
+Added Pin To Net: NetName=NetDHT1_2 Pin=U1-25
+Added Net: Name=NetDHT1_2
+Added Pin To Net: NetName=NetENCODER1_1 Pin=ENCODER1-1
+Added Pin To Net: NetName=NetENCODER1_1 Pin=U1-10
+Added Net: Name=NetENCODER1_1
+Added Pin To Net: NetName=NetENCODER1_2 Pin=ENCODER1-2
+Added Pin To Net: NetName=NetENCODER1_2 Pin=U1-11
+Added Net: Name=NetENCODER1_2
+Added Pin To Net: NetName=NetENCODER1_3 Pin=ENCODER1-3
+Added Pin To Net: NetName=NetENCODER1_3 Pin=U1-12
+Added Net: Name=NetENCODER1_3
+Added Pin To Net: NetName=NetLCD1_3 Pin=LCD1-3
+Added Pin To Net: NetName=NetLCD1_3 Pin=VR1-2
+Added Net: Name=NetLCD1_3
+Added Pin To Net: NetName=NetLCD1_4 Pin=LCD1-4
+Added Pin To Net: NetName=NetLCD1_4 Pin=U1-1
+Added Net: Name=NetLCD1_4
+Added Pin To Net: NetName=NetLCD1_5 Pin=LCD1-5
+Added Pin To Net: NetName=NetLCD1_5 Pin=U1-2
+Added Net: Name=NetLCD1_5
+Added Pin To Net: NetName=NetLCD1_6 Pin=LCD1-6
+Added Pin To Net: NetName=NetLCD1_6 Pin=U1-3
+Added Net: Name=NetLCD1_6
+Added Pin To Net: NetName=NetLCD1_11 Pin=LCD1-11
+Added Pin To Net: NetName=NetLCD1_11 Pin=U1-5
+Added Net: Name=NetLCD1_11
+Added Pin To Net: NetName=NetLCD1_12 Pin=LCD1-12
+Added Pin To Net: NetName=NetLCD1_12 Pin=U1-6
+Added Net: Name=NetLCD1_12
+Added Pin To Net: NetName=NetLCD1_13 Pin=LCD1-13
+Added Pin To Net: NetName=NetLCD1_13 Pin=U1-7
+Added Net: Name=NetLCD1_13
+Added Pin To Net: NetName=NetLCD1_14 Pin=LCD1-14
+Added Pin To Net: NetName=NetLCD1_14 Pin=U1-8
+Added Net: Name=NetLCD1_14
+Added Pin To Net: NetName=SCL Pin=IC2-3
+Added Pin To Net: NetName=SCL Pin=U1-35
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=IC2-4
+Added Pin To Net: NetName=SDA Pin=U1-36
+Added Net: Name=SDA
+Added Pin To Net: NetName=Vin Pin=F1-1
+Added Pin To Net: NetName=Vin Pin=P1-2
+Added Net: Name=Vin
+Added Class: Name=03_Schematic
